@@ -1,3 +1,7 @@
+# Filetypes to ignore
+
+.xml
+
 # History files
 .Rhistory
 .Rapp.history
